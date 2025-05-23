@@ -1,0 +1,101 @@
+company_id,name,country,founded_year,employee_count,revenue_million,net_income_million,total_assets_million,total_liabilities_million,equity_million
+0,Powers-Fischer,Guadeloupe,2001,1038,419.02,9.52,268.09,92.56,175.53
+1,"Anderson, Avila and Morales",South Africa,1964,512,338.17,-42.38,501.08,200.3,300.78
+2,"Patterson, Chan and Hansen",Turkey,2010,4503,367.87,82.99,695.96,299.32,396.64
+3,"Campbell, James and Wheeler",Austria,1970,880,105.33,-45.86,354.85,169.16,185.69
+4,"Ellis, Carney and Nelson",Iraq,1973,4498,271.18,36.83,937.28,841.21,96.07
+5,Chandler Ltd,France,1952,216,348.2,15.77,48.79,35.04,13.75
+6,Terry-Duncan,Malawi,1971,1494,115.05,50.8,423.77,224.82,198.95
+7,"Velazquez, Clayton and Clark",Luxembourg,2002,873,88.3,-0.78,967.9,718.43,249.47
+8,Jones-Hernandez,Turkey,1951,2800,491.1,-26.74,552.49,469.15,83.34
+9,Dalton PLC,Mauritius,1979,573,258.8,97.28,429.24,375.68,53.56
+10,Nguyen-Watts,Honduras,1987,4201,131.15,75.84,572.84,191.74,381.1
+11,Parks Ltd,Niger,1951,1767,498.13,79.06,580.17,311.38,268.79
+12,Riley and Sons,Sao Tome and Principe,2013,1688,482.74,-12.46,734.33,267.34,466.99
+13,Mahoney Inc,Jordan,2009,3252,279.59,-44.17,136.41,68.4,68.01
+14,Sanchez PLC,Falkland Islands (Malvinas),1970,4646,441.44,-4.51,257.52,103.47,154.05
+15,Thompson-Thompson,Isle of Man,1982,1069,95.16,30.56,584.74,402.36,182.38
+16,Hood Group,Saint Martin,2007,1732,140.16,-1.0,868.45,462.85,405.6
+17,"Johnson, Hayes and Wagner",Tunisia,1971,3324,350.48,74.18,566.25,247.81,318.44
+18,"Garcia, Melendez and Glover",Luxembourg,1998,3167,423.48,-9.27,246.21,113.15,133.06
+19,Henderson-Frank,Bahamas,2008,2635,428.31,94.79,683.05,352.6,330.45
+20,"Green, Bennett and Espinoza",Paraguay,1991,2739,202.85,18.59,742.51,338.56,403.95
+21,"Thompson, Myers and Rowe",Benin,2009,1607,444.0,76.3,245.85,140.61,105.24
+22,Alvarado Inc,Tonga,1964,3070,425.61,-20.84,383.95,122.63,261.32
+23,King Ltd,Netherlands,2011,2703,467.88,11.7,538.98,252.17,286.81
+24,Rodgers-Orozco,Fiji,2011,4901,392.88,54.93,501.6,274.24,227.36
+25,Mcmillan-Savage,Liberia,1996,3637,334.83,-29.25,395.72,261.84,133.88
+26,Aguilar-Ortiz,Kazakhstan,2011,1373,290.76,-30.09,304.66,140.93,163.73
+27,"Gardner, Campbell and Jones",Yemen,2000,1991,186.77,95.43,108.99,41.41,67.58
+28,Payne-Hurley,Bangladesh,2004,1673,470.13,57.19,62.95,21.76,41.19
+29,"Gould, Wong and Booth",Tonga,2013,1539,486.86,-43.84,958.96,828.85,130.11
+30,Bonilla-Dalton,Tokelau,1952,2048,142.68,9.82,848.67,466.75,381.92
+31,Kelly Group,Eritrea,2000,3312,153.38,15.03,361.36,234.41,126.95
+32,"Fields, Bean and Byrd",Netherlands Antilles,1956,2247,243.32,61.61,957.23,815.09,142.14
+33,Gregory-Patel,Romania,1970,1316,224.76,-12.37,680.0,237.76,442.24
+34,Jones-Harris,Congo,1988,4039,497.23,-22.35,487.7,402.84,84.86
+35,"Price, Vargas and Marshall",Greece,1967,2685,88.79,-37.87,498.1,314.28,183.82
+36,"Wiggins, Hawkins and Rogers",Kuwait,1953,1292,10.02,14.25,92.45,36.88,55.57
+37,Schultz and Sons,Morocco,2009,719,247.45,53.27,100.79,55.11,45.68
+38,Crawford-Martin,Namibia,1963,4754,90.23,-41.27,606.42,464.86,141.56
+39,Pierce Inc,Kazakhstan,1958,4423,183.87,87.28,558.17,328.33,229.84
+40,"Austin, Lambert and Snyder",Cote d'Ivoire,2002,3758,372.34,16.35,220.6,196.59,24.01
+41,Daniels-Reese,Gabon,1951,4789,360.75,-14.03,946.73,498.02,448.71
+42,Lyons-Delacruz,Turks and Caicos Islands,2009,673,154.72,-35.92,783.48,587.41,196.07
+43,"Lopez, Johnson and Ramirez",Ethiopia,1993,2008,271.73,-22.57,122.33,65.54,56.79
+44,Myers-Oliver,Saint Helena,1957,3455,254.9,90.19,931.62,742.97,188.65
+45,"Cruz, Hernandez and Hensley",Georgia,1996,3753,318.53,45.74,974.51,625.1,349.41
+46,"Moore, Johnson and Herring",San Marino,1984,1505,125.98,27.5,995.97,336.74,659.23
+47,Mullins-Pineda,Kazakhstan,1985,3314,295.35,48.57,65.31,21.04,44.27
+48,"Crawford, Anderson and Pearson",Grenada,1999,3773,489.47,15.35,739.67,281.3,458.37
+49,Schwartz Inc,Martinique,1953,1863,243.88,59.51,550.46,169.65,380.81
+50,"Roberts, White and Cowan",Svalbard & Jan Mayen Islands,1951,4669,453.14,-42.84,708.77,244.68,464.09
+51,Baker-Peterson,Liechtenstein,1955,1301,217.76,34.91,968.97,692.84,276.13
+52,Morse and Sons,Guyana,2003,3591,175.69,-26.2,691.15,428.93,262.22
+53,"Banks, Warren and Barron",Heard Island and McDonald Islands,1953,3467,322.91,-31.98,838.59,628.9,209.69
+54,Gallagher Ltd,Falkland Islands (Malvinas),2003,1646,334.79,1.28,868.2,736.15,132.05
+55,Mendoza-Sanchez,French Guiana,2012,3706,432.22,-36.23,840.1,546.98,293.12
+56,Johnson PLC,Benin,1967,3009,115.86,-35.88,431.83,317.69,114.14
+57,Green Group,Afghanistan,1993,3162,250.1,-3.29,230.35,173.74,56.61
+58,"Andrews, Walker and Zuniga",Moldova,1983,708,286.43,96.93,402.69,212.1,190.59
+59,"Evans, Myers and Spears",Kyrgyz Republic,2011,2170,384.51,-23.7,892.98,397.06,495.92
+60,Mann-Reyes,South Georgia and the South Sandwich Islands,1963,4107,22.76,-47.43,155.14,65.63,89.51
+61,Miller-Paul,Marshall Islands,1997,4747,497.28,64.5,518.19,233.63,284.56
+62,Smith and Sons,Syrian Arab Republic,1964,864,235.5,71.04,240.9,111.98,128.92
+63,Diaz-Moreno,Macao,2011,3484,140.5,1.95,585.49,248.44,337.05
+64,"Brown, Compton and Lee",Holy See (Vatican City State),1989,1717,441.86,19.7,864.51,714.89,149.62
+65,Smith-Friedman,Marshall Islands,2002,2787,374.11,47.47,881.56,664.87,216.69
+66,Johnson-Wang,Zambia,1973,1743,476.58,-42.79,244.32,80.17,164.15
+67,Campbell-Murphy,Burkina Faso,1975,4941,166.04,92.37,908.62,419.06,489.56
+68,Leonard-Gibson,New Caledonia,2009,3520,276.83,83.0,595.97,186.72,409.25
+69,Wade-Foster,Madagascar,1990,212,286.57,-10.87,356.72,213.64,143.08
+70,"Horton, Gallegos and Martinez",Tuvalu,1978,3265,490.19,-47.7,711.1,416.51,294.59
+71,"Fitzgerald, Sampson and Jones",Andorra,1964,4228,38.6,90.02,486.85,388.91,97.94
+72,Lopez-Wilkerson,Nicaragua,1994,4506,153.54,25.16,384.21,186.21,198.0
+73,Thompson PLC,Congo,2014,776,96.26,30.91,708.03,559.22,148.81
+74,Jones-Garcia,Heard Island and McDonald Islands,1958,4399,134.97,52.59,256.24,225.69,30.55
+75,Alvarez-Cantu,Japan,1950,2337,243.15,42.38,336.95,118.96,217.99
+76,"Parker, Baker and Miller",Zambia,1957,2941,186.97,91.58,440.11,341.13,98.98
+77,Evans PLC,Mauritius,2012,207,197.95,91.64,261.15,170.79,90.36
+78,Singleton LLC,Kuwait,1960,1940,422.26,80.08,411.15,241.77,169.38
+79,"Walters, Mcintyre and Stevenson",Ireland,1957,3592,465.08,45.46,575.76,318.0,257.76
+80,Evans Group,Tonga,1984,618,36.14,70.14,743.56,573.14,170.42
+81,Thomas Inc,Panama,1984,3282,105.25,51.58,769.52,526.06,243.46
+82,Swanson-Snow,Mongolia,1982,1157,335.9,36.01,824.56,645.65,178.91
+83,Ferguson-Thomas,Kyrgyz Republic,1954,4292,179.96,-30.72,746.77,628.7,118.07
+84,Jones-Young,Norfolk Island,1990,3407,127.83,71.68,684.23,458.68,225.55
+85,"Contreras, Ellison and Harris",Cape Verde,1977,2521,148.35,73.1,245.13,217.74,27.39
+86,"Lewis, Burke and Bell",Seychelles,1956,1804,161.95,43.89,406.22,270.08,136.14
+87,Moreno Group,Croatia,1961,669,424.49,73.06,482.94,329.36,153.58
+88,King-Zimmerman,Palestinian Territory,1983,2821,69.17,47.72,92.06,58.26,33.8
+89,Ayers-Martin,Korea,1982,1379,354.75,-19.0,533.09,189.03,344.06
+90,Miranda and Sons,Guyana,1997,1996,276.86,-8.91,441.97,325.22,116.75
+91,"Carlson, Waters and Pope",Zambia,1972,156,148.96,-17.81,804.09,505.34,298.75
+92,Davis-Knapp,Congo,2011,3229,210.47,6.59,978.12,558.06,420.06
+93,Palmer and Sons,Uruguay,1986,2921,128.85,-44.16,560.44,474.29,86.15
+94,"Turner, Murray and Smith",San Marino,1993,1744,306.15,42.74,329.46,157.74,171.72
+95,Coleman-Davidson,Pitcairn Islands,1984,1853,41.72,0.48,52.97,32.53,20.44
+96,Henderson-Nguyen,United States of America,2014,498,3.59,48.36,925.4,664.98,260.42
+97,Smith Group,Paraguay,1996,2986,314.32,7.81,919.92,715.59,204.33
+98,Rodriguez Inc,Suriname,1952,1969,97.94,52.24,260.46,149.92,110.54
+99,Foster and Sons,Bhutan,1950,2395,36.4,1.09,698.46,562.44,136.02
